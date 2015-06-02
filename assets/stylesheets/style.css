@@ -1,0 +1,34 @@
+.red-and-blue {
+  color: blue;
+  background: red;
+}
+
+.green-and-yellow {
+  color: red;
+  background-color: yellow;
+}
+
+#user-123 {
+  background: green;
+}
+
+.special {
+  color: orange;
+}
+
+/* Be careful with IDs */
+#special {
+  color: purple;
+}
+
+.default-justification {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
